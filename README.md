@@ -19,7 +19,7 @@ genomes from metagenomics data and to develop the best practices guidelines.
 ### Project outline:  
 - Get familiar with the bioinformatics tools used for de novo assembly of long reads (from
 primarily Oxford Nanopore sequencing platforms)  
-- Select a set of the de novo assemblers for further testing (as of now, we will primarily
+- Select a set of the de novo assemblers for further testing; as of now, we will primarily
 focus on Flye (https://github.com/fenderglass/Flye), Canu
 (https://github.com/marbl/canu), and metaMDBG (https://github.com/GaetanBenoitDev/metaMDBG) de novo assemblers
 - For each assembler, identify key parameters (settings) that can be adjusted to improve
